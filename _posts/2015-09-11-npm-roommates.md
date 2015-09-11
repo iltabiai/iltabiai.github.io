@@ -12,8 +12,10 @@ Setting up
 ----------------
 
 First, you need to install *Nmap* and its python wrapper:
+```
 	sudo apt-get install nmap
 	sudo pip install python-nmap
+```
 
 Use it
 ----------------
@@ -22,7 +24,7 @@ You will need to be **root** in order to use nmap.
 	#First, you need a Postscanner object that will be used to do the scan
 	nm = nmap.PortScanner()
 	#You can then do a scan of all the IPV4 addresses provided by the network you are connected to
-	nm.scan(hosts = '192.168.1.0/24', arguments = '-n -sP -PE -T5')
+	nm.scan(hosts = '192.168.1.0/24', arguments = '-sn')
 
 The 3 first numbers of the IP address (*192.168.1*) used as hosts might need to be changed depending of the network. Check the IP address of a machine connected to that same network to know which IP addresses you should scan.
 You can then check the *all_hosts()* function attached to the *PortScanner* object. *all_hosts()* provides a list containing information about each IP address available in the network. For each element, you can check several values such as the MAC address. 
@@ -42,8 +44,10 @@ For some devices, the MAC address is not openly displayed.
 Implementation
 ----------------
 
-The best way to use this is to set up a Raspberry Pi running a script with a Cron job regularly scanning your network and notifying you through an intranet webpage, mail or SMS if any interesting event happens.
+The best way to use this is to set up a Raspberry Pi running a script with a Cron job regularly scanning your network and notifying you through an intranet webpage, mail or SMS if any interesting event happens. To do so, you need to know the MAC address of your roommates' smartphones or laptops. You can also use it for network discovery. You will quickly motice that you can attach MAC addresses to people by performing
 Nmap is a much more powerful tool than what is presented here. This is just a fun trick that can be used with roommates [to play an intro music when they get home for example](https://github.com/usag1e/Homza).
+
+Now that I know that anyone can get my MAC addresses by performing simple scans when I am connected through a certain network and when I am not, what I would like to know is how can one be protected from such attempts? Is it possible to voluntarily hide your MAC address to the netowrk?
 
 PS: Check NMap's presence in [blockbuster movies](https://nmap.org/movies/)
 
