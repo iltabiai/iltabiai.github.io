@@ -6,18 +6,13 @@ url: http://iltabiai.github.io
 paginate: 5
 permalink: /:title
 
-# Header and footer text
-header_text: >
-header_text_feature_image:
-footer_text: >
-     &#xA9; Ilyass Tabiai
-
 # Social share and comments.
-disqus-id: yourusername
+disqus-id: iltabiai
 twitter: joydisee
 github: joydisee
 google: +joydisee
 rss: true
+linkedin: 
 
 # RSS feed
 rss-feed-limit: 10
