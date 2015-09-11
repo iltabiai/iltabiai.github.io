@@ -6,7 +6,7 @@ categories: [win10, latex, miktex]
 tags: win10, latex, miktex
 ---
 
-After the Windows 10 update, *Miktex* refused to download new packages and kept signaling a `Windows API Error 2`. The worst part was that the **uninstall** file for *Miktex* was nowhere to be found, which made it impossible to properly uninstall it using *Windows*' Program manager. On the machine's Admin account, *Miktex* was not even reported in the Program manager anymore.
+After the Windows 10 update, *Miktex* refused to download new packages and kept signaling a `Windows API Error 2`. The worst part was that the **uninstall** file for *Miktex* was nowhere to be found, which made it impossible to properly uninstall it using *Windows* Program manager. On the machine's Admin account, *Miktex* was not even reported in the Program manager anymore.
 
 A simple and efficient fix that worked for me is to rename you current Miktex folder `Miktex_old`, install *Miktex* where the old install was and simply delete the `Miktex_old` folder, and that's it !
 
