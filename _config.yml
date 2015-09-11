@@ -18,3 +18,10 @@ google: +joydisee
 # RSS feed
 rss-feed-limit: 10
 rss-show-full: "no"
+
+# BUILD SETTINGS
+markdown: redcarpet
+highlighter: pygments
+sass:
+sass_dir: _sass
+style: :compressed
