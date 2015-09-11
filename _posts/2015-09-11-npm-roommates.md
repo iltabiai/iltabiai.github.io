@@ -12,15 +12,16 @@ Setting up
 ----------------
 
 First, you need to install *Nmap* and its python wrapper:
-```
+
 	sudo apt-get install nmap
 	sudo pip install python-nmap
-```
+
 
 Use it
 ----------------
 You can either use the *python* console to perform unique scans or script your scans to perform them on a regular basis.
 You will need to be **root** in order to use nmap. 
+
 	#First, you need a Postscanner object that will be used to do the scan
 	nm = nmap.PortScanner()
 	#You can then do a scan of all the IPV4 addresses provided by the network you are connected to
