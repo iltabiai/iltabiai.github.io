@@ -12,21 +12,22 @@ Setting up
 ----------------
 
 First, you need to install *Nmap* and its python wrapper:
-```
+
 	sudo apt-get install nmap
 	sudo pip install python-nmap
-```
+
 
 Use it
 ----------------
 You can either use the *python* console to perform unique scans or script your scans to perform them on a regular basis.
 You will need to be **root** in order to use nmap. 
+
 	#First, you need a Postscanner object that will be used to do the scan
 	nm = nmap.PortScanner()
 	#You can then do a scan of all the IPV4 addresses provided by the network you are connected to
 	nm.scan(hosts = '192.168.1.0/24', arguments = '-sn')
 
-The 3 first numbers of the IP address (*192.168.1*) used as hosts might need to be changed depending of the network. Check the IP address of a machine connected to that same network to know which IP addresses you should scan.
+The 3 first numbers of the IP address (`192.168.1`) used as `hosts` might need to be changed depending of the network. Check the IP address of a machine connected to that same network to know which IP addresses you should scan.
 You can then check the *all_hosts()* function attached to the *PortScanner* object. *all_hosts()* provides a list containing information about each IP address available in the network. For each element, you can check several values such as the MAC address. 
 
 	for host in nm.all_hosts():

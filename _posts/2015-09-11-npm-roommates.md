@@ -27,8 +27,8 @@ You will need to be **root** in order to use nmap.
 	#You can then do a scan of all the IPV4 addresses provided by the network you are connected to
 	nm.scan(hosts = '192.168.1.0/24', arguments = '-sn')
 
-The 3 first numbers of the IP address (*192.168.1*) used as hosts might need to be changed depending of the network. Check the IP address of a machine connected to that same network to know which IP addresses you should scan.
-You can then check the *all_hosts()* function attached to the *PortScanner* object. *all_hosts()* provides a list containing information about each IP address available in the network. For each element, you can check several values such as the MAC address. 
+The 3 first numbers of the IP address (`192.168.1`) used as `hosts` might need to be changed depending of the network. Check the IP address of a machine connected to that same network to know which `hosts` you should scan.
+You can then check the `all_hosts()` function attached to the `PortScanner` object which provides a list containing information about each IP address available in the network. For each element, you can check several values such as the MAC address. 
 
 	for host in nm.all_hosts():
 		#If the status of an IP address is not down, print it
