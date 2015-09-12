@@ -6,6 +6,9 @@ layout: default
 
     <article class="module color-3">
         <h1>{{ page.title }}{{ .shortUrl }}</h1>
+
+	<p>{{ post.date | date: "%a, %d %b %Y %H:%M %z" }}</p>
+
         <hr>
         {{ content }}
         <p class="top"><small><a href="#top">[top]</a></small></p>
