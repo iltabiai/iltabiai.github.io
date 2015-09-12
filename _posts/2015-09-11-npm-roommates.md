@@ -52,4 +52,6 @@ Now that I know that anyone can get my MAC addresses by performing simple scans 
 
 PS: Check NMap's presence in [blockbuster movies](https://nmap.org/movies/)
 
+{% include twitter_plug.html %}
+
 
