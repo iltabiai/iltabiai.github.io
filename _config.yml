@@ -8,9 +8,10 @@ permalink: /:title
 
 # Social share and comments.
 disqus-id: iltabiai
+disqus_shortname: 
 twitter: joydisee
 github: joydisee
-google: +joydisee
+google: +IlyassT
 rss: true
 linkedin: ilyasstabiai
 
