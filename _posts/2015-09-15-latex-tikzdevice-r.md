@@ -74,3 +74,6 @@ You can easily modify the sizes using the **rel()** function to scale the font s
         axis.title = element_text(size = rel(0.8)),
         axis.title.y = element_text( vjust=2 ),
         axis.title.x = element_text( vjust=-0.5 ))
+        
+{% include twitter_plug.html %}
+
