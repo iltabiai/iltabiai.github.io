@@ -4,6 +4,7 @@ title:  "Latex + R + tikzDevice = Ggplots beautifully integrated in latex docume
 date:   2015-09-15 16:30:00
 categories: [latex, plot, r]
 tags: latex, tikzDevice, R
+comments: true
 ---
 
 Implementing nice looking plots in a **LaTeX** document was harder than expected. I use **R** (through *Rstudio*) combined with **ggplot2** ([Grammar of Graphics plot](http://ggplot2.org/)) to plot my data and wanted a convenient way to insert my plots into Latex documents. I use something similar with [Inkscape](https://www.ctan.org/tex-archive/info/svg-inkscape?lang=en). It automatically sets the right font, properly writes Latex symbols and respects the proper font sizes. 
