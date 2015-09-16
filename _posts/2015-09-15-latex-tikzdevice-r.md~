@@ -68,7 +68,7 @@ The result should look like this. As you can see, *LaTeX* symbols are now proper
 </div>
 
 A problem you might still have: the font size of the plot title and axis legend and their positions.
-You can easily modify the sizes using the **rel()** function to scale the font size of each element. To modify the position of the axis legends or title plot, you can use the **vjust** and **hjust** parameters for vertical and horizontal positioning. **R** will not prepare your plot for the **LaTeX** font and sizes, so you will probably need to move the title and axis titles or they will probably touch the plot itsel at some point (visible in the previous *LaTeX* plot). To correct it, use something similar to this:
+You can easily modify the sizes using the **rel()** function to scale the font size of each element. To modify the position of the axis legends or title plot, you can use the **vjust** and **hjust** parameters for vertical and horizontal positioning. **R** will not prepare your plot for the **LaTeX** font and sizes, so you will probably need to move the title and axis titles or they will probably touch the plot itsel at some point (visible in the previous *LaTeX* plot). To correct this, use something similar to this:
 
         plot + theme(plot.title = element_text(size = rel(1), vjust = 0), 
         axis.title = element_text(size = rel(0.8)),
