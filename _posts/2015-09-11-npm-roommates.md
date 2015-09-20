@@ -45,7 +45,7 @@ For some devices, the MAC address is not openly displayed.
 Implementation
 ----------------
 
-The best way to use this is to set up a Raspberry Pi running a script with a Cron job regularly scanning your network and notifying you through an intranet webpage, mail or SMS if any interesting event happens. To do so, you need to know the MAC address of your roommates' smartphones or laptops. You can also use it for network discovery. You will quickly motice that you can attach MAC addresses to people by performing
+The best way to use this is to set up a Raspberry Pi running a script with a Cron job regularly scanning your network and notifying you through an intranet webpage, mail or SMS if any interesting event happens. To do so, you need to know the MAC address of your roommates' smartphones or laptops. You can also use it for network discovery. You will quickly notice that you can attach MAC addresses to people by performing
 Nmap is a much more powerful tool than what is presented here. This is just a fun trick that can be used with roommates [to play an intro music when they get home for example](https://github.com/usag1e/Homza).
 
 Now that I know that anyone can get my MAC addresses by performing simple scans when I am connected to a WiFi network and when I am not, what I would like to know is how can one be protected from such attempts? Is it possible to voluntarily hide your MAC address from the netowrk?
