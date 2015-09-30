@@ -22,7 +22,7 @@ You can then use this command to recursively treat any file in the folder with a
     #!/bin/sh
     for file in `ls | grep tif`
     do
-        convert "$file" -fuzz 5% -transparent white "${file}.png"
+        convert "$file" -transparent white "${file}.png"
         echo "writing ${file}.png"
     done
     
@@ -30,6 +30,8 @@ To use it, you simply need to put a bunch of *.tiff* files in the same folder, a
 If your files are recorded as *.tif* and not *.tiff*, you will need to change it in the second line of the script.
 
 Final tip: If any other file in the folder (it can be the script itself) contains the letters *T*-*I*-*F*-*F* in this order, it will be transformed into a *.png* even if it is a text file.
+
+Source, more details: [http://ospublish.constantvzw.org/blog/tools/convert-tiff-to-transparent-png](http://ospublish.constantvzw.org/blog/tools/convert-tiff-to-transparent-png)
         
 {% include twitter_plug.html %}
 
