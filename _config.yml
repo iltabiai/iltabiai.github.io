@@ -25,3 +25,7 @@ sass:
 sass_dir: _sass
 style: :compressed
 exclude: [Gemfile , README.md , LICENSE]
+
+gems:
+- jekyll-youtube
+- youtube
