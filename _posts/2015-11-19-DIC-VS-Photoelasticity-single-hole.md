@@ -4,7 +4,7 @@ title:  "DIC and Photoelastic experiment of a single hole dogbone specimen under
 date:   2015-11-19 10:15:00
 comments: true
 categories: [dic, photoelastic, single hole dogbone]
-dic, photoelastic, single hole dogbone
+tags: dic, photoelastic, single hole dogbone
 ---
 
 A transparent photoelastic polymer containing a single hole of 500um is loaded under tensile stress. The same experiment is done again using Digital Image Correlation (DIC) as an analysis method this time.
