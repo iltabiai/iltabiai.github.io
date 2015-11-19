@@ -26,6 +26,8 @@ sass_dir: _sass
 style: :compressed
 exclude: [Gemfile , README.md , LICENSE]
 
+safe: false
+
 gems:
 - jekyll-youtube
 - youtube
