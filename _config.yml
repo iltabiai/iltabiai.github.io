@@ -28,6 +28,5 @@ exclude: [Gemfile , README.md , LICENSE]
 
 safe: false
 
-gems:
-- jekyll-youtube
-- youtube
+gems: 
+    jekyll-youtube

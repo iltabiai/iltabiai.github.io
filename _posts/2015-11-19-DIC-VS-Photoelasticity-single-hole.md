@@ -13,7 +13,7 @@ This video compares both methods.
 Both specimens' dimensions were chosen according to the ASTM D632 Type V.
 Test speed: 0.1mm/min
 
-{% youtube /8A4TIMLhqhM %}
+{% YouTube /8A4TIMLhqhM %}
 
 Experiments done in collaboration with Rolland Delorme, at Ecole Polytechnique Montreal in November 2015.
 
