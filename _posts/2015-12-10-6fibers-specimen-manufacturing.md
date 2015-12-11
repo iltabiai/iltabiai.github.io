@@ -8,11 +8,11 @@ tags: photoelastic, specimen, manufacturing
 ---
 
 <div align="center">
-<img src="{{ site.url }}/assets/d638_drawing.png"style="width:569px;height:510px;">
+<img src="{{ site.url }}/assets/d638_drawing.png"/>
 </div>
 
 
-A 3D-printed mold was designed to hold 6 steel fibers (basically steel wire of 900%\mu%m) arranged in two parallel lines of 3 fibers. 
+A 3D-printed mold was designed to hold 6 steel fibers (basically steel wire of 900 $\mu m$) arranged in two parallel lines of 3 fibers. 
 Epoxy is then poured in the mold and cures around the fibers. The mold is then horizontally cut to provide several dogbone specimen, containing transversally embedded steel fibers.
 
 <div align="center">
@@ -28,6 +28,4 @@ It is then possible to qualitatively see the residual stresses in the specimen d
 </div>
 
 The density of **fringes** (isolines of same colours) qualitatively shows the stress concentration. The more colours there are in an area, the higher the stress concentration is.
-
-
-
+It is possible to distinguish the residual stresses due to the interaction with the mold and the residual stress around each fiber.
