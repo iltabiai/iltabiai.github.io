@@ -52,7 +52,7 @@ tags: gmsh, exodus, peridigm, peridynamics
     </td>
     <td>
 <div align="center">
-<img src="{{ site.url }}/assets/3D_Cube_exodusII.png.png"/>
+<img src="{{ site.url }}/assets/3D_Cube_exodusII.png"/>
 </div>
     </td> 
   </tr>
@@ -68,7 +68,7 @@ tags: gmsh, exodus, peridigm, peridynamics
 * Think it could be better? [Clone the repo, improve it and send a pull request](https://help.github.com/articles/using-pull-requests/)
 
 
-Many thanks to [Patrick](http://diehlpk.github.io/) for working with me on this project, I learned a lot about meshes and *VTK*. *#notscaredofmeshesanymore*
+It was great working with [Patrick](http://diehlpk.github.io/) on this project, I learned a lot about meshes and *VTK*. *#notscaredofmeshesanymore*
 
 {% include twitter_plug.html %}
 
