@@ -7,7 +7,7 @@ tags: latex, tikzDevice, R
 comments: true
 ---
 
-Implementing nice looking plots in a **LaTeX** document was harder than expected. I use **R** (through *Rstudio*) combined with **ggplot2** ([Grammar of Graphics plot](http://ggplot2.org/)) to plot my data and wanted a convenient way to insert my plots into Latex documents. I use something similar with [Inkscape](https://www.ctan.org/tex-archive/info/svg-inkscape?lang=en). It automatically sets the right font, properly writes Latex symbols and respects the proper font sizes. 
+Implementing nice looking plots in a \\(\LaTeX\\) document was harder than expected. I use **R** (through *Rstudio*) combined with **ggplot2** ([Grammar of Graphics plot](http://ggplot2.org/)) to plot my data and wanted a convenient way to insert my plots into Latex documents. I use something similar with [Inkscape](https://www.ctan.org/tex-archive/info/svg-inkscape?lang=en). It automatically sets the right font, properly writes Latex symbols and respects the proper font sizes. 
 
 The best solution I found is using the [tikzDevice package](https://github.com/yihui/tikzDevice) for *R* and the [tikz (available in the **pgf** package)](https://www.ctan.org/pkg/pgf?lang=en) package from *LaTeX*. **TikZ** plots will consist of vectors that will directly be coded into the *LaTeX* document so that there is no loss in image quality.
 First you need to install **tikzDevice** in *R* through `install.packages("tikzDevice")`. For the following example to work, you will also need to install `ggplot2`.
