@@ -25,10 +25,10 @@ Test speed: \\(0.1mm/min\\)
 
 Experiments done in collaboration with Rolland Delorme, at Ecole Polytechnique Montreal during November 2015.
 
-$$\epsilon_1$$
+Text $$\epsilon_1$$ Text
 
 
-\\( \epsilon_1 \\)
+Text \\( \epsilon_1 \\) Text
 
 {% include twitter_plug.html %}
 
