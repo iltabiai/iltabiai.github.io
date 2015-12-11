@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DIC and Photoelastic experiment of a single hole dogbone specimen under tensile stress"
+title:  "Epoxy dogbone specimen with steel fibers embedded, manufacturing and qualitative residual stress evaluation"
 date:   2015-12-10 12:05:00
 comments: true
 categories: [photoelastic, specimen, manufacturing]
