@@ -12,7 +12,7 @@ tags: photoelastic, specimen, manufacturing
 </div>
 
 
-   A 3D-printed mold was designed to hold 6 steel fibers (basically steel wire of 900\\(mu m\\) arranged in two parallel lines of 3 fibers. 
+   A 3D-printed mold was designed to hold 6 steel fibers (basically steel wire of 900\\(\mu m\\) arranged in two parallel lines of 3 fibers. 
 Epoxy is then poured in the mold and cures around the fibers. The mold is then horizontally cut to provide several dogbone specimen, containing transversally embedded steel fibers.
 
 <div align="center">
