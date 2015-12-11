@@ -25,7 +25,7 @@ tags: gmsh, exodus, peridigm, peridynamics
   <tr>
     <td>
 <div align="center">
-<img src="{{ site.url }}/assets/example_mesh_1.png.png"/>
+<img src="{{ site.url }}/assets/example_mesh_1.png"/>
 </div>
     </td>
     <td>
@@ -33,27 +33,42 @@ tags: gmsh, exodus, peridigm, peridynamics
 <img src="{{ site.url }}/assets/example_exodus_1.png"/>
 </div>
     </td> 
-
   </tr>
 </table>
 
- | 
-:------------------------:|:----------------------------------------:
-![Mesh](./assets/example_mesh_1.png?raw=true "Mesh generated with gmesh")|![Exodus](./assets/example_exodus_1.png?raw=true "Mesh generated with gmesh")
-
 # 3D
 
-Mesh generated with gmesh | Exodus geometry visualized with paraview
-:------------------------:|:----------------------------------------:
-![Mesh](./assets/3D_Cube_gmsh.png?raw=true "Mesh generated with gmesh")|![Exodus](./assets/3D_Cube_exodusII.png?raw=true "Mesh generated with gmesh")
-   
+
+<table style="width:100%">
+  <tr>
+    <td>Mesh generated with gmesh</td>
+    <td>Exodus geometry visualized with paraview</td> 
+  </tr>
+  <tr>
+    <td>
+<div align="center">
+<img src="{{ site.url }}/assets/3D_Cube_gmsh.png"/>
+</div>
+    </td>
+    <td>
+<div align="center">
+<img src="{{ site.url }}/assets/3D_Cube_exodusII.png.png"/>
+</div>
+    </td> 
+  </tr>
+</table>
+
+
+## Get started
 
 * [Get started with the README here](https://github.com/diehlpk/gmsh-exodus-converter)
-* [Let us know here](https://github.com/diehlpk/gmsh-exodus-converter/issues) if you have any troubles using it
+
+* [Let us know](https://github.com/diehlpk/gmsh-exodus-converter/issues) if you have any troubles using it
+
 * Think it could be better? [Clone the repo, improve it and send a pull request](https://help.github.com/articles/using-pull-requests/)
 
 
-Many thanks to [Patrick](http://diehlpk.github.io/) for working with me on this project, I learned a lot about meshes and *VTK*. #notscaredofmeshesanymore
+Many thanks to [Patrick](http://diehlpk.github.io/) for working with me on this project, I learned a lot about meshes and *VTK*. *#notscaredofmeshesanymore*
 
 {% include twitter_plug.html %}
 
