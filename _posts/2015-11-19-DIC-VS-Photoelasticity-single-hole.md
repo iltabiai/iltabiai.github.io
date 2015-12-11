@@ -8,7 +8,7 @@ tags: dic, photoelastic, single hole dogbone
 ---
 
    A transparent photoelastic polymer containing a single hole of \\(500\mu m\\) is loaded under tensile stress. The same experiment is done again using *Digital Image Correlation* (DIC) as an analysis method this time.
-   The contour plot shown in the DIC experiment are percentiles of \( \epsilon_1- \epsilon_2 \), where \\( \epsilon_{1} \\) is the deformation in the first principal direction and \\(\epsilon_2\\) the deformation in the second principal direction. The number of photoelastic fringes passing through a material point on the specimen's surface is also proportional to \\( \epsilon_e1- \epsilon_2 \\), allowing a qualitative comparison of both methods by looking at:
+   The contour plot shown in the DIC experiment are percentiles of $$ \epsilon_1- \epsilon_2 $$, where \\( \epsilon_{1} \\) is the deformation in the first principal direction and \\(\epsilon_2\\) the deformation in the second principal direction. The number of photoelastic fringes passing through a material point on the specimen's surface is also proportional to \\( \epsilon_e1- \epsilon_2 \\), allowing a qualitative comparison of both methods by looking at:
 
 * The fringes concentration
 * The number of fringes passing through a single material point and their direciton
@@ -24,6 +24,11 @@ Test speed: \\(0.1mm/min\\)
    Once the whole specimen emits an almost uniform color *(second 40)*, 6 petal fringes *(circular)* are cricling the hole. 
 
 Experiments done in collaboration with Rolland Delorme, at Ecole Polytechnique Montreal during November 2015.
+
+$ \epsilon_1$
+$$\epsilon_1$$
+\( \epsilon_1 \)
+\\( \epsilon_1 \\)
 
 {% include twitter_plug.html %}
 
