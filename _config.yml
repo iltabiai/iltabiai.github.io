@@ -27,6 +27,3 @@ style: :compressed
 exclude: [Gemfile , README.md , LICENSE]
 
 safe: false
-
-gems: 
-    jekyll-youtube
