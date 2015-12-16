@@ -1,29 +1,58 @@
-# General
-name: iltabiai's blog
-description: "Simple tricks and tips"
-url: http://iltabiai.github.io
+### Site info:
+title: Loot Sack
+tagline: Ilyass Tabiai, personal blog
+author: Ilyass Tabiai
+email: ilyass.tabiai@polymtl.ca
+description: "Hi, this is Ilyass. I'm a PhD student and lab assistant at Polytechnique Montreal. I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Jekyll, theme, Freshman21"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://iltabiai.github.io" # the base hostname & protocol for your site
+locale: en_US
 
-paginate: 5
-permalink: /:title
+### Personal info and site tools info:
+twitter_username: joydisee
+github_username:  ilyasst
+disqus_shortname: iltabiai
+favicon:     "/images/favicon.ico"
+aboutme: Hi, this is Ilyass. I'm a PhD student and lab assistant at Polytechnique Montreal. I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France. # these are shown on aboutme-sidebar.
+aboutme_photo: https://pbs.twimg.com/profile_images/662669738997362688/D6MPcRON.jpg # your photo.
 
-# Social share and comments.
-disqus-id: iltabiai
-twitter: joydisee
-github: joydisee
-google: +IlyassT
-rss: true
-linkedin: ilyasstabiai
 
-# RSS feed
-rss-feed-limit: 10
-rss-show-full: "yes"
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
-# BUILD SETTINGS
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"  
+      PostDate: "on "
+
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+    - name: Nalyze
+      href: http://www.nalyze.net/
+      title: My coding team's website about web crawling, Machine Learning and Natural Language Procesisng.
+    - name: Laboratory of Multi-Scale Mechanics
+      href: http://www.polymtl.ca/lm2/en/
+      title: Website of the lab where I am currently a PhD
+
+
+### Build settings
 markdown: redcarpet
 highlighter: pygments
-sass:
-sass_dir: _sass
+paginate: 7
 style: :compressed
 exclude: [Gemfile , README.md , LICENSE]
-
 safe: false

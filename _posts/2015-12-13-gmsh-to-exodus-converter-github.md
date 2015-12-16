@@ -10,7 +10,7 @@ tags: gmsh, exodus, peridigm, peridynamics
    At the [USNCCM13](http://13.usnccm.org/), we discussed the fact that (currently) [Peridigm](https://peridigm.sandia.gov/) only accepts [Exodus II](https://cubit.sandia.gov/public/13.2/help_manual/WebHelp/finite_element_model/exodus/exodus2_file_specification.htm) mesh files. The only software that generates *Exodus II* mesh files is the powerful [Cubeit](https://cubit.sandia.gov/). *Cubeit*'s license can also be expensive, especially for someone who only wants to use the conversion to *Exodus II* feature to import geometries in *Peridigm*...
    [Patrick](http://diehlpk.github.io/) discussed the possibility of writing our own conversion script that converts a widely used free meshing format to *Exodus II*. We eventually decided to use [Gmsh](http://geuz.org/gmsh/) as an input for our script, which then converts *Gmsh* meshes to *Exodus II*. 
    
-   The [code is available here](https://github.com/diehlpk/gmsh-exodus-converter), everythhign is written in *python* so the only requirement is [VTK >=5.8](http://www.vtk.org/) with the python wrapper *(sudo apt-get install python-vtk)*. We currently support *triangles* and *quadrangles* as 2D elements and *tetrahedrons* only for 3D elements.
+   The [code is available here](https://github.com/diehlpk/gmsh-exodus-converter), everything is written in *python* so the only requirement is [VTK >=5.8](http://www.vtk.org/) with the python wrapper *(sudo apt-get install python-vtk)*. We currently support *triangles* and *quadrangles* for 2D elements and *tetrahedrons* for 3D elements.
    
 ## Example
 
@@ -19,7 +19,7 @@ tags: gmsh, exodus, peridigm, peridynamics
 
 <table style="width:100%">
   <tr>
-    <td>Mesh generated with gmesh</td>
+    <td>Mesh generated with gmsh</td>
     <td>Exodus geometry visualized with paraview</td> 
   </tr>
   <tr>
@@ -41,7 +41,7 @@ tags: gmsh, exodus, peridigm, peridynamics
 
 <table style="width:100%">
   <tr>
-    <td>Mesh generated with gmesh</td>
+    <td>Mesh generated with gmsh</td>
     <td>Exodus geometry visualized with paraview</td> 
   </tr>
   <tr>
