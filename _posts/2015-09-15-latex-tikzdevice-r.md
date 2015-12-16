@@ -2,7 +2,7 @@
 layout: post
 title:  "Latex + R + tikzDevice = Ggplots beautifully integrated in latex documents"
 date:   2015-09-15 16:30:00
-categories: [latex, ]
+categories: [latex]
 tags: latex R
 comments: true
 ---

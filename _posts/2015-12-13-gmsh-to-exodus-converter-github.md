@@ -3,8 +3,8 @@ layout: post
 title:  "Gmsh to Exodus converter"
 date:   2015-12-12 14:34:00
 comments: true
-categories: [gmsh, exodus, peridigm, peridynamics]
-tags: gmsh, exodus, peridigm, peridynamics
+categories: [github]
+tags: peridynamics
 ---
 
    At the [USNCCM13](http://13.usnccm.org/), we discussed the fact that (currently) [Peridigm](https://peridigm.sandia.gov/) only accepts [Exodus II](https://cubit.sandia.gov/public/13.2/help_manual/WebHelp/finite_element_model/exodus/exodus2_file_specification.htm) mesh files. The only software that generates *Exodus II* mesh files is the powerful [Cubeit](https://cubit.sandia.gov/). *Cubeit*'s license can also be expensive, especially for someone who only wants to use the conversion to *Exodus II* feature to import geometries in *Peridigm*...
