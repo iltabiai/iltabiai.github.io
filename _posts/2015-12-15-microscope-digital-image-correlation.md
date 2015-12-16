@@ -53,6 +53,8 @@ tags: dic
    On the first image, it is possible to distinguish the fiber but quite hard. We used the laser instead of white light to maximize pixels' intensity.
    The white areas are actually reflecting the laser and will make the image correlation analysis impossible around those defects (glue? contamination? the specimen was cleaned).
    On the final image, it is clearly possible to see that the fiber completely detached from the matrix. The material also seems to have shifted along the \\(45^o\\) line passing through the fiber.
+   
+*These experiments were possible with the help of Damien and were done at École de Technologie Supérieur, Montréal.*
 
 {% include twitter_plug.html %}
 
