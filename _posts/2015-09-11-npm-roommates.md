@@ -2,8 +2,8 @@
 layout: post
 title:  "Using Nmap to find your roommates"
 date:   2015-09-11 20:52:00
-categories: [nmap, python, wifi, scan]
-tags: nmap, python, wifi, scan
+categories: [home automation]
+tags: nmap python
 ---
 
 You can easily check if someone is connected to a Wifi network using a simple function provided in the [Network MAP](https://nmap.org/) package. Nmap is a security package designed to discover hosts, services and machines on a network.
@@ -13,9 +13,10 @@ Setting up
 
 First, you need to install *Nmap* and its python wrapper:
 
+```bash
 	sudo apt-get install nmap
 	sudo pip install python-nmap
-
+```
 
 Use it
 ----------------
@@ -30,6 +31,7 @@ You will need to be **root** in order to use nmap.
 The 3 first numbers of the IP address (`192.168.1`) used as `hosts` might need to be changed depending of the network. Check the IP address of a machine connected to that same network to know which `hosts` you should scan.
 You can then check the `all_hosts()` function attached to the `PortScanner` object which provides a list containing information about each IP address available in the network. For each element, you can check several values such as the MAC address. 
 
+```python
 	for host in nm.all_hosts():
 		#If the status of an IP address is not down, print it
 		if nm[host]['status']['state'] != "down":
@@ -39,6 +41,7 @@ You can then check the `all_hosts()` function attached to the `PortScanner` obje
 				print "MAC ADDRESS:", nm[host]['addresses']['mac']
 			except:
 				mac = 'unknown'
+```
 
 For some devices, the MAC address is not openly displayed. 
 

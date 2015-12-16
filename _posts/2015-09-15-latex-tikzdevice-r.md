@@ -2,8 +2,8 @@
 layout: post
 title:  "Latex + R + tikzDevice = Ggplots beautifully integrated in latex documents"
 date:   2015-09-15 16:30:00
-categories: [latex, plot, r]
-tags: latex, tikzDevice, R
+categories: [latex, ]
+tags: latex R
 comments: true
 ---
 
@@ -13,6 +13,7 @@ The best solution I found is using the [tikzDevice package](https://github.com/y
 First you need to install **tikzDevice** in *R* through `install.packages("tikzDevice")`. For the following example to work, you will also need to install `ggplot2`.
 Once you have both *R* packages, you can use this Rscript as an example:
 
+```R
 	library(tikzDevice)
 	library(ggplot2)
 	#For some reason, Rstudio needs to know the time zone...
@@ -36,6 +37,7 @@ Once you have both *R* packages, you can use this Rscript as an example:
 	print(plot)
 	#Necessary to close or the tikxDevice .tex file will not be written
 	dev.off()
+```
 
 The output provided by this script in *R* looks like this:
 
@@ -46,6 +48,7 @@ The output provided by this script in *R* looks like this:
 As you can see, the *LaTeX* codes are clearly visible. The font is *R*'s default font for now. If you check the folder where you **sourced** your file, you will find a [test.tex file]("{{ site.url }}/assets/test.tex")(you can check its content for this specific case by clicking on it) which contains the plot information as vectors. Every line, word or symbol is included as latex instructions in this *.tex* file.
 You should now create a **.tex** (any name will do) in the same folder your **plot_test.tex** file is in and use this simple *LaTeX* code to implement the image in it:
 
+```Latex
 	\documentclass{article}
 	%The package tikz is available in pgf
 	\usepackage{tikz}
@@ -61,6 +64,7 @@ You should now create a **.tex** (any name will do) in the same folder your **pl
 		\label{plot:test}
 	\end{figure}
 	\end{document}
+```
 
 The result should look like this. As you can see, *LaTeX* symbols are now properly written, the font is also similar to the rest of the document and the plot can be inserted in your *LaTeX* document !
 
@@ -71,10 +75,12 @@ The result should look like this. As you can see, *LaTeX* symbols are now proper
 A problem you might still have: the font size of the plot title and axis legend and their positions.
 You can easily modify the sizes using the **rel()** function to scale the font size of each element. To modify the position of the axis legends or title plot, you can use the **vjust** and **hjust** parameters for vertical and horizontal positioning. **R** will not prepare your plot for the **LaTeX** font and sizes, so you will probably need to move the title and axis titles or they will probably touch the plot itsel at some point (visible in the previous *LaTeX* plot). To correct it, use something similar to this:
 
+```R
         plot + theme(plot.title = element_text(size = rel(1), vjust = 0), 
         axis.title = element_text(size = rel(0.8)),
         axis.title.y = element_text( vjust=2 ),
         axis.title.x = element_text( vjust=-0.5 ))
+```
         
 {% include twitter_plug.html %}
 

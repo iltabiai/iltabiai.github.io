@@ -12,9 +12,9 @@ tags: gmsh, exodus, peridigm, peridynamics
    
    The [code is available here](https://github.com/diehlpk/gmsh-exodus-converter), everything is written in *python* so the only requirement is [VTK >=5.8](http://www.vtk.org/) with the python wrapper *(sudo apt-get install python-vtk)*. We currently support *triangles* and *quadrangles* for 2D elements and *tetrahedrons* for 3D elements.
    
-## Example
+## Examples
 
-# 2D
+#### 2D
 
 
 <table style="width:100%">
@@ -36,7 +36,7 @@ tags: gmsh, exodus, peridigm, peridynamics
   </tr>
 </table>
 
-# 3D
+#### 3D
 
 
 <table style="width:100%">

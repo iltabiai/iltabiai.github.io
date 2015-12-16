@@ -3,8 +3,8 @@ layout: post
 title:  "Epoxy dogbone specimen with steel fibers embedded, manufacturing and qualitative residual stress evaluation"
 date:   2015-12-10 12:05:00
 comments: true
-categories: [photoelastic, specimen, manufacturing]
-tags: photoelastic, specimen, manufacturing
+categories: [photoelasticity]
+tags: photoelasticity, manufacturing
 ---
 
 
