@@ -55,7 +55,7 @@ tags: dic
    
    On the final image, it is clearly possible to see that the fiber completely detached from the matrix. The material also seems to have shifted along the \\(45^o\\) line passing through the fiber. The white areas' shapes and colors also changed erathically, which is why they cannot be considered in the region of interest during the analysis.
    
-*These experiments were possible with the help of Damien and were done at École de Technologie Supérieur, Montréal.*
+*These experiments were possible with the help of [Damien Texier](https://www.researchgate.net/profile/Damien_Texier) and were done at École de Technologie Supérieur, Montréal.*
 
 {% include twitter_plug.html %}
 
