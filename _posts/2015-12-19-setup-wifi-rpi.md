@@ -15,7 +15,9 @@ tags: ubuntu rpi
 ```bash
 pi@raspberrypi:~ $ cd /etc/network
 pi@raspberrypi:~ $ cat interfaces
+```
 
+```
 # interfaces(5) file used by ifup(8) and ifdown(8)
 
 # Please note that this file is written to be used with dhcpcd
@@ -59,7 +61,7 @@ network={
 The real novelty is the use of [dhcpcd](http://www.linuxfromscratch.org/blfs/view/svn/basicnet/dhcpcd.html) to manage static connection. To set up a static IP for you Raspberry Pi, you need to modify the following file:
 
 ```bash
-sudo nano /etc/dhcpcd.conf
+pi@raspberrypi:~ $ sudo nano /etc/dhcpcd.conf
 ```
 
 Add the following lines, after adapting them to your network:
@@ -74,7 +76,7 @@ interface wlan0
 If you do not have the information about your network, you can always take an already connected device's settings (smartphone or laptop).
 You can now reboot your Raspberry Pi. It should automatically connect to the configured network, and reconnect (as soons as it is available again) if the connection is lost for any reason.
 
-   the enxt thing you should do is enable the SSH server in the Advanced settings of `sudo raspi-config` and you're good to go !
+   The next thing you should do is enable the SSH server in the Advanced settings of `sudo raspi-config` and you're good to go !
    
 
 {% include twitter_plug.html %}
