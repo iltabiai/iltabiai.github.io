@@ -3,7 +3,7 @@ layout: post
 title:  "Gmsh to Exodus converter"
 date:   2015-12-12 14:34:00
 comments: true
-categories: [github]
+categories: [github, peridynamics]
 tags: peridynamics
 ---
 
