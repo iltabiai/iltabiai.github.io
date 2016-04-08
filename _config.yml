@@ -52,7 +52,7 @@ Blogroll:
 
 ### Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 paginate: 7
 style: :compressed
 exclude: [Gemfile , README.md , LICENSE]
