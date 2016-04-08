@@ -51,7 +51,7 @@ Blogroll:
 
 
 ### Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 paginate: 7
 style: :compressed
@@ -59,6 +59,3 @@ exclude: [Gemfile , README.md , LICENSE]
 gems: [jekyll-paginate]
 safe: false
 
-### Fix the markdown parsing for tables to appear
-redcarpet:
-    extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
