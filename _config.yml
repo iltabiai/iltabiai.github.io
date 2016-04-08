@@ -56,4 +56,5 @@ highlighter: pygments
 paginate: 7
 style: :compressed
 exclude: [Gemfile , README.md , LICENSE]
+gems: [jekyll-paginate]
 safe: false
