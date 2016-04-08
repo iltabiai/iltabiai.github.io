@@ -7,6 +7,8 @@ categories: [machine learning]
 tags: python machinelearning
 ---
 
+Podcasts are a growing business today, which is good news for me since I am a huge fan of this new media. The trick is that podcasts are everywhere, too many of them, hidden throughout the web. It is pretty hard to find new podcasts, and it is even harder to test all of them until I find a few I actually like.
+In order to solve this problem, I decided to take a look at the solutions developed and used by Amazon or Netflix. It is basically machine learning.
 
 
 http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
