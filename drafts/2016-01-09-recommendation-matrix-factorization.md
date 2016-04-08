@@ -18,6 +18,34 @@ Ok, so to make this recommendation algorithm we need:
     
 Each user is going to rate some of the podcasts (each user *does not have to rate all podcasts*).
 
+<table style="width:100%">
+  <tr>
+    <td></td>
+    <td>Podcast 1</td> 
+    <td>Podcast 2</td> 
+    <td>Podcast 3</td> 
+    <td>Podcast 4</td> 
+    <td>\\(\ddots\\)</td> 
+    <td>Podcast 5</td> 
+  </tr>
+  
+  <tr>
+    <td>
+    User 1
+    </td>
+  </tr>
+  <tr>
+    <td>
+    User 2
+    </td>
+  </tr>
+  <tr>
+    <td>
+    User 3
+    </td>
+  </tr>
+</table>
+
 |     	|Pod1  	|Pod2  	|Pod3  	|Pod4  	|...    |Pod5
 |---	|---	|---	|---	|---	|---    |
 |User 1	|   	|   	|   	|   	|...    |
@@ -26,7 +54,8 @@ Each user is going to rate some of the podcasts (each user *does not have to rat
 |...    |       |       |       |       |       |
 |User n |       |       |       |       |       |
 
-\\R = P \times Q^T \\
+
+\\(R = P \times Q^T \\)
 
 
 http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
