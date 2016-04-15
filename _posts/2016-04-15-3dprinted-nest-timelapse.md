@@ -4,7 +4,7 @@ title:  "3D printing the BirdFeeder by PrintedNest"
 date:   2016-04-15 10:15:00
 comments: true
 categories: [home automation]
-tags: 3d printing, 3D-TRIP, manufacturing
+tags: 3d-printing, 3D-TRIP, manufacturing
 ---
 
    Just sharing a timelapse of a 18 hours print. The part is the [Bird Feeder v4](www.thingiverse.com/thing:359618), designed by [Printed nest](www.printednest.com). The print was done on a _Leapfrog Creatr_, with a layer height of 0.3mm and 80% infill. The Printed Nest team recommends a 100% infill but I try to avoid printing solid parts on printers that are not equipped with an active cooling system (which is the case of the _Leapfrog Creatr_). Else it is necessary to print very slowly in order to let the previous solid layer cool down before laying the next one on it.
