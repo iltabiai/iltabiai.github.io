@@ -10,12 +10,13 @@
   {% include header.html %}
 
   {% if site.default_column == "two" %}  
-
+  {% include sidebar.html %}
   <div class="page-content col-sm-8">
     {{ content }}
-    {% include post_pagination.html %}
   </div>
-  {% include sidebar.html %}
+
+  {% include post_pagination.html %}
+  
 
   {% else %}
 
