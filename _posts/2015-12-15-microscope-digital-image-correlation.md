@@ -8,7 +8,7 @@ tags: dic
 ---
 
    A small dogbone specimen containing one unique fiber is prepared in such a way that its surface provides a good enough level of grey in order to do Digital Image Correlation without the need of an additional speckle pattern.
-   The purpose of the experiment is to evaluate the deformation field and observed damage mechanisms around the fiber (\\(100 \mu m diameter\\)) while the specimen is experiencing quasi-static tensile load.
+   The purpose of the experiment is to evaluate the deformation field and observed damage mechanisms around the fiber (\\(100 \mu m \\) diameter) while the specimen is experiencing quasi-static tensile load.
 
 <table style="width:100%">
   <tr>
