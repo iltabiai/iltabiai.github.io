@@ -42,7 +42,7 @@ Once you have both *R* packages, you can use this Rscript as an example:
 The output provided by this script in *R* looks like this:
 
 <div align="center">
-<img src="{{ site.url }}/assets/2015-09-15-R-output-plot.png"style="width:569px;height:510px;">
+<img src="{{ site.url }}/assets/2015-09-15-R-output-plot.png" style="width:569px;height:510px;">
 </div>
 
 As you can see, the *LaTeX* codes are clearly visible. The font is *R*'s default font for now. If you check the folder where you **sourced** your file, you will find a [test.tex file]("{{ site.url }}/assets/test.tex")(you can check its content for this specific case by clicking on it) which contains the plot information as vectors. Every line, word or symbol is included as latex instructions in this *.tex* file.
@@ -68,8 +68,9 @@ You should now create a **.tex** (any name will do) in the same folder your **pl
 
 The result should look like this. As you can see, *LaTeX* symbols are now properly written, the font is also similar to the rest of the document and the plot can be inserted in your *LaTeX* document !
 
+
 <div align="center">
-<img src="{{ site.url }}/assets/2015-09-15-Latex-output-plot.png"style="width:747px;height:757px;">
+<img src="{{ site.url }}/assets/2015-09-15-Latex-output-plot.png" style="width:747px;height:757px;">
 </div>
 
 A problem you might still have: the font size of the plot title and axis legend and their positions.
