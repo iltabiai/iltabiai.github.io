@@ -7,18 +7,6 @@ categories: [slack, organize]
 tags: slack, organize
 ---
 
-### Channels
-
-You can **mute** any channel to stop getting notifications by typing `/mute` in the channel. Use it for channels that you only check from time to time. You will still be notified if someone directly mentions you. 
-
-You can **leave** a channel by typing `/leave` in the channel.
-
-You can invite anyone to a channel simply by typing their username in that channel. You must then click on `Invite`.
-
-Use the **Do Not Disturb** mode if you do not want to be disturbed at all for some time. Simply type `/dnd 1 hour` and you will not be bothered for the next hour.
-
-To send a notification to all users in a channel, use `@channel` in your message. To send a notification to a specific user use `@username`. Use `@here` to send a notification to the presently active users in a channel (anyone using DND or absent will not be notified). Use `@everyone` to send a notification to every member of the team.
-
 ### Formatting
 
 Press the **up** arrow to edit your last message, then press **Enter**.
@@ -30,6 +18,19 @@ Press the **up** arrow to edit your last message, then press **Enter**.
 * ~Strikethrough~: `~text~` 
 
 * `Verbatim`: insert the text in-between ` marks
+
+
+### Channels
+
+You can **mute** any channel to stop getting notifications by typing `/mute` in the channel. Use it for channels that you only check from time to time. You will still be notified if someone directly mentions you. 
+
+You can **leave** a channel by typing `/leave` in the channel.
+
+You can invite anyone to a channel simply by typing their username in that channel. You must then click on `Invite`.
+
+Use the **Do Not Disturb** mode if you do not want to be disturbed at all for some time. Simply type `/dnd 1 hour` and you will not be bothered for the next hour.
+
+To send a notification to all users in a channel, use `@channel` in your message. To send a notification to a specific user use `@username`. Use `@here` to send a notification to the presently active users in a channel (anyone using DND or absent will not be notified). Use `@everyone` to send a notification to every member of the team.
 
 
 
