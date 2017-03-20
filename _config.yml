@@ -45,7 +45,7 @@ Blogroll:
     - name: Candidats.media
       href: https://candidats.media/
       title: An example of the kind of projects accomplished with the Nalyze team around France presidential elections of 2017.
-	- name: Nalyze
+    - name: Nalyze
       href: http://www.nalyze.net/
       title: My coding team's website about web crawling, Machine Learning and Natural Language Processing.
     - name: Laboratory of Multi-Scale Mechanics
