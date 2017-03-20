@@ -26,7 +26,11 @@ permalink: /references/
 
 ### In the media
 
-* [Eric Le Braz](https://www.7x7.press/users/607), **Présidentielle : les candidats chouchous des médias (et les tricards)**, *Article written about the candidats.media project* https://www.7x7.press/presidentielle-les-candidats-chouchous-des-medias-et-les-tricards
+# candidats.media
+* [Eric Le Braz](https://www.7x7.press/users/607) **Présidentielle : les candidats chouchous des médias (et les tricards)**, *Article written about the candidats.media project* [Link to the article](https://www.7x7.press/presidentielle-les-candidats-chouchous-des-medias-et-les-tricards)
+
+#3D-TRIP
+* Catherine Florès, Le magazine de Polytechnique Montréal, **Les rêves en trois dimensions d’un entrepreneur**, *Article written about the 3D printed company co-founded during my PhD*, [Link to the article](http://www.polymtl.ca/carrefour-actualite/magazine-poly/les-reves-en-trois-dimensions-dun-entrepreneur)
 
 
 
