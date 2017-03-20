@@ -11,9 +11,9 @@ permalink: /references/
 
 * Ilyass Tabiai. **Damage Initiation and propagation in fiber reinforced composites: Observation and Modeling**. *Mathematics of Computation seminar, Institute of Numerical Simulations*, Bonn, __Germany__; 17.04-30.04 2016 [Direct link to the abstract (no paywall)](http://ullrich.ins.uni-bonn.de/seminar/past/tabiai.pdf)
 
-* Ilyass Tabiai. **Damage observation in single fiber composite using stereoscopic digital image correlation**. *International Workshop on Mechanical Behavior of Thick Composites (IWMBTC2016)*, Concordia University, Montreal, QC, __Canada__; 14.03-15.03 2016 [DIrect link to the presentation](https://www.researchgate.net/publication/309788559_Damage_observation_in_single_fiber_composite_using_stereoscopic_digital_image_correlation) \\
+* Ilyass Tabiai. **Damage observation in single fiber composite using stereoscopic digital image correlation**. *International Workshop on Mechanical Behavior of Thick Composites (IWMBTC2016)*, Concordia University, Montreal, QC, __Canada__; 14.03-15.03 2016 [DIrect link to the presentation](https://www.researchgate.net/publication/309788559_Damage_observation_in_single_fiber_composite_using_stereoscopic_digital_image_correlation) 
 
-  
+<br />
 
 ### Conference papers
 
