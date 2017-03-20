@@ -5,7 +5,7 @@ comments: yes
 permalink: /references/
 ---
 
-  
+<br />
 
 ### Invited talks and presentations
 
@@ -19,19 +19,19 @@ permalink: /references/
 
 * Martin Lévesque, Rolland Delorme, Ilyass Tabiai, Daniel Therriault and Louis Laberge Lebel. **Local and nonlocal constitutive theories in linear viscoelasticity**. *The 10th International Conference on the Mechanics of Time Dependent Materials*, Paris, __France__; 17.05-20.05 2016 [Direct link to the abstract (no paywall)](https://www.researchgate.net/publication/293174022_Local_and_nonlocal_constitutive_theories_in_linear_viscoelasticity)
 
-  
+<br />
 
 ### Technical review
 
 * Vincent Hughes, Ilyass Tabiai, Kambiz Chizari and Daniel Therriault. **3D-printable conductive nanocomposites of PLA and multi-walled carbon nanotubes**. *Material Matters (Aldrich Materials Science)*, Volume 11 - Number 1, 2016, pp 61-63 [Direct link to the publication (no paywall)](https://www.researchgate.net/publication/308137331_3D_printable_conductive_nanocomposites_of_PLA_and_multi-walled_carbon_nanotubes)
 
-  
+<br />
 
 ### Teaching experience
 
 * Ilyass Tabiai. **3D printing: disrupting the development and production phase in the product development cycles**. *Presentation given at the beginning of each lab session of the MEC6510A (Advanced manufacturing in aeronautics and micro-systems) class at École Polytechnique Montréal* [Direct link to the presentation](http://www.slideshare.net/IlyassTabiai/3d-printing-disrupting-the-development-and-production-phase-in-the-product-development-cycles)
 
-  
+<br />
 
 ### Acknowledgements
 
@@ -40,7 +40,7 @@ Papers in which my work was deemed helpful enough to be cited in the *Acknowledg
 * K. Scharnowski, S. Frey, B. Raffin, T. Ertl. **Spline-based Decomposition of Streamed Particle Trajectories for Efficient Transfer and Analysis**. *Eurographics 2017 Proceedings, the 38th annual conference of the European Association for Computer Graphics*, [Direct link to the short paper](http://www.vis.uni-stuttgart.de/~freysn/share/egs17_trajcomp.pdf), [Link to the abstract page](http://liris.cnrs.fr/eg2017/index.php/short-paper-program/#content_3-2)
 
   
-
+<br />
 
 ### In the media
 
