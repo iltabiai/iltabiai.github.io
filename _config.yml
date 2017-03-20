@@ -42,9 +42,12 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-    - name: Nalyze
+    - name: Candidats.media
+      href: https://candidats.media/
+      title: An example of the kind of projects accomplished with the Nalyze team around France presidential elections of 2017.
+	- name: Nalyze
       href: http://www.nalyze.net/
-      title: My coding team's website about web crawling, Machine Learning and Natural Language Procesisng.
+      title: My coding team's website about web crawling, Machine Learning and Natural Language Processing.
     - name: Laboratory of Multi-Scale Mechanics
       href: http://www.polymtl.ca/lm2/en/
       title: Website of the lab where I am currently a PhD
