@@ -24,6 +24,11 @@ permalink: /references/
 * Ilyass Tabiai. **3D printing: disrupting the development and production phase in the product development cycles**. *Presentation given at the beginning of each lab session of the MEC6510A (Advanced manufacturing in aeronautics and micro-systems) class at École Polytechnique Montréal* [Direct link to the presentation](http://www.slideshare.net/IlyassTabiai/3d-printing-disrupting-the-development-and-production-phase-in-the-product-development-cycles)
 
 
+### In the media
+
+* [Eric Le Braz](https://www.7x7.press/users/607), **Présidentielle : les candidats chouchous des médias (et les tricards)**, *Article written about the candidats.media project* https://www.7x7.press/presidentielle-les-candidats-chouchous-des-medias-et-les-tricards
+
+
 
 
 
