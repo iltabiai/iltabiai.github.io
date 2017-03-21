@@ -7,11 +7,17 @@ permalink: /references/
 
 <br />
 
+### Journal papers
+
+* Rolland Delorme, Ilyass Tabiai, Louis Laberge Lebel, Martin Lévesque. **Generalization of the ordinary state-based peridynamic model for isotropic linear viscoelasticity**, *Mechanics of Time-Dependent Materials*, February 2017, DOI:10.1007/s11043-017-9342-3, [Article webpage in journal website](https://link.springer.com/article/10.1007%2Fs11043-017-9342-3),[Read the publication](http://www.readcube.com/articles/10.1007/s11043-017-9342-3?author_access_token=xf0R8CYiY9KB4sW_ByPZvPe4RwlQNchNByi7wbcMAY6-bLxD_9ghj0fOr6l6AFSVJ3mzfD85uyM5EDMxDyd21nOL1xSBa8lJIfz-vCJSGBhwo6Iv_PIN6y_PedF_JUgyUD0KqCDguGNJGPA4heJk6g%3D%3D)
+
+<br />
+
 ### Invited talks and presentations
 
 * Ilyass Tabiai. **Damage Initiation and propagation in fiber reinforced composites: Observation and Modeling**. *Mathematics of Computation seminar, Institute of Numerical Simulations*, Bonn, __Germany__; 17.04-30.04 2016 [Direct link to the abstract (no paywall)](http://ullrich.ins.uni-bonn.de/seminar/past/tabiai.pdf)
 
-* Ilyass Tabiai. **Damage observation in single fiber composite using stereoscopic digital image correlation**. *International Workshop on Mechanical Behavior of Thick Composites (IWMBTC2016)*, Concordia University, Montreal, QC, __Canada__; 14.03-15.03 2016 [DIrect link to the presentation](https://www.researchgate.net/publication/309788559_Damage_observation_in_single_fiber_composite_using_stereoscopic_digital_image_correlation) 
+* Ilyass Tabiai. **Damage observation in single fiber composite using stereoscopic digital image correlation**. *International Workshop on Mechanical Behavior of Thick Composites (IWMBTC2016)*, Concordia University, Montreal, QC, __Canada__; 14.03-15.03 2016 [Direct link to the presentation](https://www.researchgate.net/publication/309788559_Damage_observation_in_single_fiber_composite_using_stereoscopic_digital_image_correlation) 
 
 <br />
 
