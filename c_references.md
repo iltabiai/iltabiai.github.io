@@ -35,8 +35,8 @@ permalink: /references/
 
 ### Published code
 
-* Patrick Diehl, Ilyass Tabiai. (2017). [IaPCS/gmsh-exodus-converter: Release v1.0](https://github.com/IaPCS/gmsh-exodus-converter), Zenodo DOI: [http://doi.org/10.5281/zenodo.437171](http://doi.org/10.5281/zenodo.437171)
-  Converts a mesh written with [gmsh](http://gmsh.info/) to the `Exodus II` format, which is used in common simulations tools, such as [Peridigm](https://peridigm.sandia.gov/)
+* Patrick Diehl, Ilyass Tabiai. (2017). [IaPCS/gmsh-exodus-converter: Release v1.0](https://github.com/IaPCS/gmsh-exodus-converter), Zenodo DOI: [http://doi.org/10.5281/zenodo.437171](http://doi.org/10.5281/zenodo.437171),
+Tool which converts a mesh written with [gmsh](http://gmsh.info/) to the `Exodus II` format, which is used in common simulations tools, such as [Peridigm](https://peridigm.sandia.gov/)
 
 <br />
 
