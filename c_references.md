@@ -32,6 +32,8 @@ permalink: /references/
 * Patrick Diehl, Ilyass Tabiai. (2017). [IaPCS/gmsh-exodus-converter: Release v1.0](https://github.com/IaPCS/gmsh-exodus-converter), Zenodo DOI: http://doi.org/10.5281/zenodo.437171
 Converts a mesh written with [gmsh](http://gmsh.info/) to the `Exodus II` format, which is used in common simulations tools, such as [Peridigm](https://peridigm.sandia.gov/)
 
+<br />
+
 ### Teaching experience
 
 * Ilyass Tabiai. **3D printing: disrupting the development and production phase in the product development cycles**. *Presentation given at the beginning of each lab session of the MEC6510A (Advanced manufacturing in aeronautics and micro-systems) class at École Polytechnique Montréal* [Direct link to the presentation](http://www.slideshare.net/IlyassTabiai/3d-printing-disrupting-the-development-and-production-phase-in-the-product-development-cycles)
