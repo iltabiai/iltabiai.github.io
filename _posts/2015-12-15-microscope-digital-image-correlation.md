@@ -15,15 +15,17 @@ tags: dic
     <td>
     <div align="center">
     <img src="{{ site.url }}/assets/minispeckle.png"/>
+    </div>
     </td>
     <td>
     <iframe width='600' height='635' src='https://pictures.lytro.com/ilyasst/pictures/1089008/embed' frameborder='0' allowfullscreen scrolling='no'></iframe>
-    </td> 
+    </td>
   </tr>
 </table>
 
-
-   The specimen is loaded in a microtraction machine adapted to perform the test under the microscope's lens.
+<br>
+The specimen is loaded in a microtraction machine adapted to perform the test under the microscope's lens.
+<br>
 
 <div align="center">
 <iframe width='600' height='635' src='https://pictures.lytro.com/ilyasst/pictures/1089009/embed' frameborder='0' allowfullscreen scrolling='no'></iframe>
@@ -34,7 +36,7 @@ tags: dic
 <table style="width:100%">
   <tr>
     <td>First image</td>
-    <td>Final image</td> 
+    <td>Final image</td>
   </tr>
   <tr>
     <td>
@@ -46,16 +48,15 @@ tags: dic
 <div align="center">
 <img src="{{ site.url }}/assets/Speck001_x10_08_1.jpg"/>
 </div>
-    </td> 
+    </td>
   </tr>
 </table>
 
    On the first image, it is possible to distinguish the fiber but quite hard. We used the laser instead of white light to maximize pixels' intensity.
    The white areas are actually reflecting the laser and will make the image correlation analysis impossible around those defects (glue? contamination? the specimen was cleaned though. *EDIT: those are actually bubbles, voids, in the epoxy that are partially revealed by the polishing.*).
-   
+
    On the final image, it is clearly possible to see that the fiber completely detached from the matrix. The material also seems to have shifted along the \\(45^o\\) line passing through the fiber. The white areas' shapes and colors also changed erathically, which is why they cannot be considered in the region of interest during the analysis.
-   
+
 *These experiments were possible with the help of [Damien Texier](https://www.researchgate.net/profile/Damien_Texier) and were done at École de Technologie Supérieur, Montréal.*
 
 {% include twitter_plug.html %}
-
