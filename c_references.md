@@ -33,10 +33,16 @@ permalink: /references/
 
 <br />
 
-### Published code
+### Open-source code
 
 * Patrick Diehl, Ilyass Tabiai. (2017). [IaPCS/gmsh-exodus-converter: Release v1.0](https://github.com/IaPCS/gmsh-exodus-converter), Zenodo DOI: [http://doi.org/10.5281/zenodo.437171](http://doi.org/10.5281/zenodo.437171),
-Tool which converts a mesh written with [gmsh](http://gmsh.info/) to the `Exodus II` format, which is used in common simulations tools, such as [Peridigm](https://peridigm.sandia.gov/)
+Tool which converts a mesh written with [gmsh](http://gmsh.info/) to the _Exodus II_ format, which is used in common simulations tools, such as [Peridigm](https://peridigm.sandia.gov/)
+
+* Patrick Diehl, Ilyass Tabiai. (2017). [IaPCS/gmsh-to-nodes](https://github.com/IaPCS/gmsh-to-nodes)
+Generates nodes and volumes from [gmsh](http://gmsh.info/) grid for nodal or particle simulations, each particle is affected with a colume value which is proportional to the element its represents volume (or surface in 2D).
+
+* Patrick Diehl, Rolland Delorme, Ilyass Tabiai. [lm2-poly/PeriPyDI](https://lm2-poly.github.io/PeriPyDIC/)
+Peridynamics (PD) computations for state-based PD in 1D, 2D for elastic and viscoelastic materials. Also possible to import Digital Image Correlation results and compute PD forces for each pixel as a node.
 
 <br />
 
