@@ -24,7 +24,6 @@ Clone gh-pages branch:
  
 `git clone https://github.com/yulijia/freshman21.git -b gh-pages --single-branch`
 
-
 ### How to install this theme?
 
 ```
