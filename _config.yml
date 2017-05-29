@@ -42,6 +42,9 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
+    - name: ColperScience Podcast
+      href: http://blog.colperscience.com/
+      title: Podcast promoting Open Science I do with Kambiz Chizari
     - name: Candidats.media
       href: https://candidats.media/
       title: An example of the kind of projects accomplished with the Nalyze team around France presidential elections of 2017.
