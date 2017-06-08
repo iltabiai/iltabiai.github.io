@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Open Data for Experimental Mechanics: From idea to project"
-categories: [research]
-tags: research
+categories: [research, open science]
+tags: research openscience
 date:   2017-06-06 20:02:00
 comments: true
 ---
