@@ -70,3 +70,5 @@ The platform's code will be made public on Github in our repository. The platfor
 * Phase 3 - Sustaining the platform and advertising it
 
 During the last phase, we will keep working on the previously mentionned activities and will also start focusing on means to make the platform sustainable. We will also focus on monitoring the platform to measure and quantify the outputs to see if we are reaching the objectives we defined at the beginning of the project.
+
+{% include twitter_plug.html %}

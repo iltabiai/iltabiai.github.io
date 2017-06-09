@@ -11,3 +11,5 @@ A simple note post to remember how to concatenate 2 PDF files in an extremely ea
 
 Simply : `sudo apt-get install pdftk`, then use it with:
 `pdftk file1.pdf file2.pdf cat output mergedfile.pdf`
+
+{% include twitter_plug.html %}

@@ -233,3 +233,5 @@ We now have results for our regex query too. If we open a result:
  For each result, we get the context in the `pre` and `post` fields, the `value0` and `name0` which are related to the regex query we created and the `xpath`, which is the exact position of the sentence in the HTML tree of the `ScholarlyHTML` file attached to this article.
 
  This result might seem a bit rough on the eyes, but `.XML` is a structured format which can be explored quite easily with `python` for example.
+
+{% include twitter_plug.html %}

@@ -18,6 +18,11 @@ Colper Science a bi-weekly podcast about Open Science and its methods. Each epis
 Listen to Episode 01:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/325552628&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+Bonus:
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327225261&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 [More information about the episode, links, references, ... Also more information about Colper Science.](http://blog.colperscience.com/2017/06/01/ep01-jburpee/)
 
 [Subscribe to the podcast's RSS feed.](http://feeds.feedburner.com/ColperScience)
+
+{% include twitter_plug.html %}

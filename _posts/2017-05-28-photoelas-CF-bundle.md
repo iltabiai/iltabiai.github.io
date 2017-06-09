@@ -7,8 +7,8 @@ categories: [research]
 tags: research
 ---
 
-I manufactured a standard dogbone specimen similar to the one shown in the picture below sometime last year. Instead of using a plain monofiber, I decided to embed a Carbon Fiber (CF) bundle in it. I found some CF in our laboratory at Polytechnique and worked on a method to manufacture the specimen I had in mind. 
-    
+I manufactured a standard dogbone specimen similar to the one shown in the picture below sometime last year. Instead of using a plain monofiber, I decided to embed a Carbon Fiber (CF) bundle in it. I found some CF in our laboratory at Polytechnique and worked on a method to manufacture the specimen I had in mind.
+
 <center>
 <img src="{{ site.url }}/assets/minispeckle.png" width="20%"/><img src="{{ site.url }}/assets/ets_setup.gif" width="70%"/>
 </center>
@@ -24,3 +24,5 @@ For this specimen, I stopped the test when the crack was large enough to cover t
 The result reveals the residual stresses remaining in the specimen after this test. It is possible to see how the CF bundle affected the strain field in its vicinity. The final purpose of this experiment is to somehow come up with a method to perform DIC on the images obtained using the confocal laser microscope.
 
 *These experiments were done with the help of [Damien Texier](https://www.researchgate.net/profile/Damien_Texier) and were done at École de Technologie Supérieur, Montréal.*
+
+{% include twitter_plug.html %}

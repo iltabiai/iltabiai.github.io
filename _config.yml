@@ -3,7 +3,10 @@ title: Loot Sack
 tagline: Ilyass Tabiai, personal blog
 author: Ilyass Tabiai
 email: ilyass.tabiai@polymtl.ca
-description: "Hi, this is Ilyass. I'm a PhD student and lab assistant at Polytechnique Montreal. I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France. I am the co-founder of 3D-TRIP an I currently work part-time at Pleiades Robotics Inc." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "Hi, this is Ilyass. I'm a PhD student in mechanics of materials and lab assistant at Polytechnique Montreal.
+I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France.
+I am the co-founder of 3D-TRIP, I podcast about Open Science with Colper Science and
+I program fun projects in python related to natural language processing / machine learning with Nalyze." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://iltabiai.github.io" # the base hostname & protocol for your site
@@ -15,7 +18,7 @@ github_username:  ilyasst
 disqus_shortname: iltabiai
 linkedin_shortname: ilyasstabiai
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Ilyass. I'm a PhD student and lab assistant at Polytechnique Montreal. I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France. # these are shown on aboutme-sidebar.
+aboutme: Hi, this is Ilyass. I'm a PhD student in mechanics of materials and lab assistant at Polytechnique Montreal. I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France. I am the co-founder of 3D-TRIP, I podcast about Open Science with Colper Science and program fun projects in python related to natural language processing / machine learning with Nalyze. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/profile_square.jpg" # your photo.
 
 
@@ -48,6 +51,9 @@ Blogroll:
     - name: Open Data for Experimental Mechanics
       href: https://opendataexpmechanics.github.io/
       title: Open source data about open data sharing for experimental mechanics
+    - name: 3D-TRIP
+      href: http://3d-trip.ca/en
+      title: Start-up aiming at developing new materials for FDM 3D-printing I co-founded with Rolland Delorme
     - name: Candidats.media
       href: https://candidats.media/
       title: An example of the kind of projects accomplished with the Nalyze team around France presidential elections of 2017.
@@ -66,4 +72,4 @@ paginate: 7
 style: :compressed
 exclude: [Gemfile , README.md , LICENSE]
 safe: false
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-twitter-plugin]
