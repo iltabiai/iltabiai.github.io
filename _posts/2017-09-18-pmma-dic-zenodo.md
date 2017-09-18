@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "aking experimental results citable with Zenodo: PMMA tensile test"
+title:  "Making experimental results citable with Zenodo: PMMA tensile test"
 categories: [dic, research, pmma]
 tags: dic research pmma
 date:   2017-09-18 16:59:00
@@ -13,7 +13,7 @@ A quick post to share an experiment, again, I did a few months again. This is a 
 The specimen is being pulled at a constant loading speed of 2000N every minute.
 The stress strain plot is also presented here. An interesting fact to notice here is that the DIC method was able to capture the different in elastic and plastic deformation at the very end of the test (the very last point of the plot).
 
-![Stress-strain](https://i.imgur.com/0uqm0dQ.png)
+![Stress-strain](https://i.imgur.com/0uqm0dQ.png){ width=70% }
 
 If you would like to learn more about the DIC method, please check one of my previous posts about it, like [this one](http://iltabiai.github.io/research/dic/chitosan/2017/07/14/chitosan-dic.html). 
 
