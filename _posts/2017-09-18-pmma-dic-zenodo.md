@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chitosan film DIC measurement while damage is happening"
+title:  "aking experimental results citable with Zenodo: PMMA tensile test"
 categories: [dic, research, pmma]
 tags: dic research pmma
 date:   2017-09-18 16:59:00
