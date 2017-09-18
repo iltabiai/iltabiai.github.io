@@ -18,7 +18,8 @@ The stress strain plot is also presented here. An interesting fact to notice her
 If you would like to learn more about the DIC method, please check one of my previous posts about it, like [this one](http://iltabiai.github.io/research/dic/chitosan/2017/07/14/chitosan-dic.html). 
 
 
-The results for this test were of interest to some fellow researchers but I did no plan in publishing it or anything, I was still interested in sharing these results and getting some "credit" for it ("credit", in research, is usually understood as citations). This is, I believe, a pretty big issue for experimental researchers as only publications seem to matter in research, the [Open Data for Experimental Mechanics](https://opendataexpmechanics.github.io/) project is actually focused on this issue. A solution for experimental researchers is to upload their dataset on the [Zenodo](https://zenodo.org/) platform. A DOI is the determined and the experimental results can be cited by other researchers, even if there is no paper attached to the experimental results.
+This test's were of interest to some fellow researchers but I had no plan publishing them or anything, I was still interested in sharing these results and getting some "credit" for it ("credit", in research, is usually understood as citations). This is, I believe, a pretty big issue for experimental researchers as only publications seem to matter in research, the [Open Data for Experimental Mechanics](https://opendataexpmechanics.github.io/) project is actually focused on this issue. A solution for experimental researchers is to upload their dataset on the [Zenodo](https://zenodo.org/) platform. A DOI is then attributed to the dataset and the experimental results can be cited by other researchers, even if there is no paper attached to the experimental results.
 
+![Stress-strain](https://i.imgur.com/0uqm0dQ.png)
 
 {% include twitter_plug.html %}
