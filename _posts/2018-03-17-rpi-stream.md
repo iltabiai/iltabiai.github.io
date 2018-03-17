@@ -3,15 +3,15 @@ layout: post
 title:  "Stream Raspberry Pi microphone through Wifi"
 categories: []
 tags:
-date: 2018-02-16 15:08:00
+date: 2018-03-17 16:08:00
 comments: true
 ---
 
 The goal of this article is to show how you can easily stream the sound captured by a microphone connected to the Raspberry Pi to another distant machine. In order to do this, you will need:
 
 * Raspberry pi 3
-* Microphone (I used this one: https://www.amazon.ca/gp/product/B0058MJX4O/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1 )
-* USB soundcard (I used  https://www.amazon.ca/gp/product/B00NMXY2MO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1 )
+* Microphone ((I used this one)[https://www.amazon.ca/gp/product/B0058MJX4O/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1] )
+* USB soundcard ((I used)[https://www.amazon.ca/gp/product/B00NMXY2MO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1] )
 
 We'll also need the **vlc** package, you can download/install that on your Raspberry Pi using:
 
@@ -20,7 +20,7 @@ We'll also need the **vlc** package, you can download/install that on your Raspb
 Next, you should plug your USB sound card to the RAspberry Pi and plug the microphone to the USB soundcard.
 We can then check if the Raspberry Pi sees the USB soundcard using:
 
-```
+```bash
 pi@raspberrypi:~ $ cat /proc/asound/modules
 ```
 
@@ -32,7 +32,7 @@ This command should show that the Raspberry pi detected two soundcards:
 ```
 Now let's check that the microphone part of the USB soundcard is properly detected:
 
-```
+```bash
 pi@raspberrypi:~ $ arecord –l
 
 **** List of CAPTURE Hardware Devices ****
