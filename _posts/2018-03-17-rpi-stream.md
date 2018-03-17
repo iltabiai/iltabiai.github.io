@@ -10,8 +10,8 @@ comments: true
 The goal of this article is to show how you can easily stream the sound captured by a microphone connected to the Raspberry Pi to another distant machine. In order to do this, you will need:
 
 * Raspberry pi 3
-* Microphone ((I used this one)[https://www.amazon.ca/gp/product/B0058MJX4O/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1] )
-* USB soundcard ((I used)[https://www.amazon.ca/gp/product/B00NMXY2MO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1] )
+* Microphone ([I used this one](https://www.amazon.ca/gp/product/B0058MJX4O/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1) )
+* USB soundcard ([I used](https://www.amazon.ca/gp/product/B00NMXY2MO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1) )
 
 We'll also need the **vlc** package, you can download/install that on your Raspberry Pi using:
 
