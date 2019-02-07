@@ -9,7 +9,14 @@ permalink: /references/
 
 ### Journal publications
 
-* Rolland Delorme, Ilyass Tabiai, Louis Laberge Lebel, Martin Lévesque. **Generalization of the ordinary state-based peridynamic model for isotropic linear viscoelasticity**, *Mechanics of Time-Dependent Materials*, February 2017, DOI:10.1007/s11043-017-9342-3, [Article webpage in journal website](https://link.springer.com/article/10.1007%2Fs11043-017-9342-3),[Read the publication](http://www.readcube.com/articles/10.1007/s11043-017-9342-3?author_access_token=xf0R8CYiY9KB4sW_ByPZvPe4RwlQNchNByi7wbcMAY6-bLxD_9ghj0fOr6l6AFSVJ3mzfD85uyM5EDMxDyd21nOL1xSBa8lJIfz-vCJSGBhwo6Iv_PIN6y_PedF_JUgyUD0KqCDguGNJGPA4heJk6g%3D%3D)
+* Rolland Delorme, Ilyass Tabiai, Louis Laberge Lebel, Martin Lévesque. **Generalization of the ordinary state-based peridynamic model for isotropic linear viscoelasticity**, *Mechanics of Time-Dependent Materials*, February 2017, DOI: 10.1007/s11043-017-9342-3, [Article webpage in journal](https://link.springer.com/article/10.1007%2Fs11043-017-9342-3),[Read the publication](http://www.readcube.com/articles/10.1007/s11043-017-9342-3?author_access_token=xf0R8CYiY9KB4sW_ByPZvPe4RwlQNchNByi7wbcMAY6-bLxD_9ghj0fOr6l6AFSVJ3mzfD85uyM5EDMxDyd21nOL1xSBa8lJIfz-vCJSGBhwo6Iv_PIN6y_PedF_JUgyUD0KqCDguGNJGPA4heJk6g%3D%3D)
+
+* Patrick Diehl, Ilyass Tabiai, Felix W. Baumann, Daniel Therriault, Martin Lévesque. **Long term availability of raw experimental data in experimental fracture mechanics**, *Engineering Fracture Mechanics 197, 21-26*, 2018, DOI: 10.1016/j.engfracmech.2018.04.030, [Read the publication](https://arxiv.org/abs/1803.07622)
+
+* Ilyass Tabiai, Rolland Delorme, Daniel Therriault, Martin Lévesque. **In-situ Full Field Measurements During Inter-Facial Debonding in Single Fiber Composite Under Transverse Load**, *Experimental Mechanics 58 (9), 1451-1467*, 2018, DOI: 10.1007/s11340-018-0429-9, [Article webpage in journal](https://link.springer.com/article/10.1007/s11340-018-0429-9)
+
+
+
 
 <br />
 
@@ -41,7 +48,7 @@ Tool which converts a mesh written with [gmsh](http://gmsh.info/) to the _Exodus
 * Patrick Diehl, Ilyass Tabiai. (2017). [IaPCS/gmsh-to-nodes](https://github.com/IaPCS/gmsh-to-nodes)
 Generates nodes and volumes from [gmsh](http://gmsh.info/) grid for nodal or particle simulations, each particle is affected with a colume value which is proportional to the element its represents volume (or surface in 2D).
 
-* Patrick Diehl, Rolland Delorme, Ilyass Tabiai. [lm2-poly/PeriPyDI](https://lm2-poly.github.io/PeriPyDIC/)
+* Patrick Diehl, Rolland Delorme, Ilyass Tabiai. [lm2-poly/PeriPyDIC](https://lm2-poly.github.io/PeriPyDIC/)
 Peridynamics (PD) computations for state-based PD in 1D, 2D for elastic and viscoelastic materials. Also possible to import Digital Image Correlation results and compute PD forces for each pixel as a node.
 
 <br />
