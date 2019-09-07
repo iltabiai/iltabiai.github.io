@@ -15,8 +15,11 @@ permalink: /references/
 
 * Ilyass Tabiai, Rolland Delorme, Daniel Therriault, Martin Lévesque. **In-situ Full Field Measurements During Inter-Facial Debonding in Single Fiber Composite Under Transverse Load**, *Experimental Mechanics 58 (9), 1451-1467*, 2018, DOI: 10.1007/s11340-018-0429-9, [Article webpage in journal](https://link.springer.com/article/10.1007/s11340-018-0429-9)
 
+* Ilyass Tabiai, Gleb Tkachev, Patrick Diehl, Steffen Frey, Thomas Ertl, Daniel Therriaul, Martin Lévesque. **Hybrid image processing approach for autonomous crack area detection and tracking using local digital image correlation results applied to single-fiber interfacial debonding**, *Engineering Fracture Mechanics 216:106485*, May 2019, DOI: 10.1016/j.engfracmech.2019.106485, [Article webpage in journal](https://linkinghub.elsevier.com/retrieve/pii/S0013794418312530)
 
+* Rolland Delorme, Patrick Diehl, Ilyass Tabiai, Louis Laberge Lebel, Martin Lévesque. **Extracting the constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework**, *Journal of Peridynamics and Nonlocal Modeling*
 
+* Ilyass Tabiai, Damien Texier, Philippe Bocher, Daniel Therriault, Martin Lévesque. **In-situ full field out of plane displacement and strain measurements at the microscale in single reinforcement composites under transverse load**, *Experimental Mechanics*, September 2019, DOI: 10.1007/s11340-019-00541-z
 
 <br />
 
