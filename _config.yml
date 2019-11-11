@@ -1,10 +1,10 @@
 ### Site info:
-title: Loot Sack
-tagline: Ilyass Tabiai, personal blog
+title: Ilyass Tabiai
+tagline: personal blog
 author: Ilyass Tabiai
 email: ilyass.tabiai@polymtl.ca
-description: "Hi, this is Ilyass. I'm a PhD student in mechanics of materials and lab assistant at Polytechnique Montreal.
-I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France.
+description: "Hi, this is Ilyass. I'm a MITACS postdoctoral fellow in the field of composite materials and a lab assistant at Polytechnique Montreal.
+I have a PhD in Mechanical Engineering from Polytechnique Mointreal, I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France.
 I am the co-founder of 3D-TRIP, I podcast about Open Science with Colper Science and
 I program fun projects in python related to natural language processing / machine learning with Nalyze." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
@@ -13,12 +13,13 @@ url: "http://iltabiai.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: joydisee
+twitter_username: ilytab
 github_username:  ilyasst
 disqus_shortname: iltabiai
 linkedin_shortname: ilyasstabiai
-favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Ilyass. I'm a PhD student in mechanics of materials and lab assistant at Polytechnique Montreal. I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France. I am the co-founder of 3D-TRIP, I podcast about Open Science with Colper Science and program fun projects in python related to natural language processing / machine learning with Nalyze. # these are shown on aboutme-sidebar.
+favicon: "/images/favicon.ico"
+aboutme: "Hi, this is Ilyass. I'm a MITACS postdoctoral fellow in the field of composite materials and a lab assistant at Polytechnique Montreal. I have a PhD in Mechanical Engineering from Polytechnique Mointreal, I received my MS in mechanical engineering from Georgia Tech and my french engineering diploma from les Arts et metiers ParisTech in France. I am the co-founder of 3D-TRIP, I podcast about Open Science with Colper Science and
+I program fun projects in python related to natural language processing / machine learning with Nalyze." # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/profile_square.jpg" # your photo.
 
 
