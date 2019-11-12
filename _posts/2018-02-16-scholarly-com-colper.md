@@ -19,3 +19,5 @@ The [complete presentation is available here](http://tiny.cc/colper-lariviere) a
 <iframe src="https://drive.google.com/file/d/1THkBb07u_Zuv97V0UgwOmwdwWxAetSMJ/preview" width="640" height="480"></iframe>
 
 In the second part of this episode, we will present a short interview we had with Vincent Lariviere about an interesting event which happened here, at Université de Montreal, during the summer of 2017: the library’s university refused to renew one of the big deals it had with Taylor and Francis Group and had to go through tough negotiations with the publisher. Vinvent Lariviere was part of these negotiation and will tell us a little bit more about the role he played there.
+
+{% include twitter_plug.html %}

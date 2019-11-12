@@ -79,3 +79,5 @@ cvlc -vvv alsa://hw:1,0 --sout \
  The audio feed should then start on VLC.
 
  __I have sources for this and will add it later.___
+
+{% include twitter_plug.html %}
